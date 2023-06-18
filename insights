@@ -1,0 +1,29 @@
+OBJECTIVE: The objective of road accident analysis is to prevent accidents, reduce injuries and fatalities, 
+and create safer road environments for all road users. By identifying trends, understanding causes, and 
+implementing targeted interventions, road accident analysis plays a crucial role in improving road safety and saving lives.
+To Create a dashboard for  year 2021  and 2022 so that they can have insights of the road accident and 
+to gain insights into the causes, patterns, and trends of road accidents in order to:
+1.	Improve Road Safety
+2.	Identify High-Risk Groups:
+3.	Evaluate and Improve Road Infrastructure
+•	Performed  data cleaning , data processing, analysing, dashboarding
+•	Tools and technology used: MS excel
+
+Based on the provided data, we can draw the following insights and conclusions:
+1.	Severity of Casualties: The data reveals a total of 417,883 casualties, including 7,135 fatal casualties, 59,312 serious casualties, 
+and 351,436 slight casualties. This indicates the need for proactive measures to reduce the severity of accidents and enhance road safety
+interventions to minimize fatal and serious injuries.
+2.	Car Accidents: The majority of casualties, approximately 79.3%, are caused by car accidents. This insight highlights the significance
+of addressing factors related to car safety, driver behavior, and enforcement measures to reduce the number of car-related casualties on the roads.
+3.	Road Type and Casualties: The data indicates that single roads have a higher number of casualties compared to other road types. This insight
+emphasizes the importance of improving infrastructure, implementing safety measures, and enhancing driver awareness on single roads to mitigate
+accidents and casualties.
+4.	Road Surface and Casualties: The data shows that dry roads are associated with more casualties. This insight suggests the need for increased
+awareness and appropriate road maintenance practices during dry conditions to reduce accidents and enhance road safety.
+5.	Time of Day and Location: The majority of casualties occur during daylight hours and in urban areas. This insight highlights the importance of
+targeted road safety measures in urban environments, such as improved pedestrian infrastructure, traffic management, and driver education to address
+the specific challenges and risks associated with urban driving.
+Overall, these insights underscore the importance of comprehensive road safety strategies that encompass multiple factors.
+It is crucial to address driver behavior, vehicle safety, road infrastructure, and environmental conditions to minimize casualties.
+By implementing appropriate interventions and measures based on these insights, it is possible to reduce the number of accidents, 
+severity of casualties, and improve overall road safety for all road users.
